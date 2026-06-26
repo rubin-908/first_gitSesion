@@ -1,0 +1,1 @@
+git init, git status, git add ., git commit -m msg, git push -u origin main, got remote add origin<url>, git branche -M main, git pull
